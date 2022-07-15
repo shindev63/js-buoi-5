@@ -46,7 +46,7 @@ function ex1() {
 ex1();
 
 function ex2() {
-    var fullName = "Lê Huỳnh Tuấn";
+    var fullName = "Lê Hoàng Nam";
     var kw = 400;
     var totalPrice;
     if (kw <= 50) {
